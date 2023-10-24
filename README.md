@@ -19,5 +19,6 @@ Hack-Cokies... recopila todo el historial de los navegadores como Firefox y Chro
 
 Para descifrar el contenido de esos archivos hay que descomprimir el archivo .zip
 donde se encuetran todos los archivos scaneados y *copiar* la ruta de ese archivo
-que desea ver el contenido en cada una de las variables de rutas creadas.
+que desea ver el contenido en cada una de las variables de rutas creadas...
+
 Luego usar los archivos Hack-Firefox y Hack-Chrome para descifrar las Cookies...
